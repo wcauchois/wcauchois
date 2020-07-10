@@ -3,5 +3,5 @@
 - 👯 I’m looking to collaborate on writing readmes
 - 🤔 I’m looking for help with writing this readme
 - 💬 Ask me about what it was like to write this readme
-- 📫 How to reach me: open a PR on this readme
+- 📫 How to reach me: open an issue on this readme
 - ⚡ Fun fact: readme stands for "read me", which is what you should do with a readme
